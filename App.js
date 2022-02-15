@@ -7,7 +7,7 @@ import { Apim } from './screens/apim';
 
 
 
-const Stack = createNativeSackNavigator();
+const Stack = createNativeStackNavigator();
 
 
 function App() {
