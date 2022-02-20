@@ -15,7 +15,7 @@
 - Axios
 - https://jsonplaceholder.typicode.com/users
 - https://jsonplaceholder.typicode.com/todos
-- 
+
 *****************************************************
 ![Adsız](https://user-images.githubusercontent.com/57618903/154823168-b17e0d7e-cb19-4e2c-a4ee-e47198bec3ce.jpg)
 
